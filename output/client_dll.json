@@ -192,16 +192,6 @@
         "metadata": [],
         "parent": null
       },
-      "C_Chicken_GraphController": {
-        "fields": {
-          "m_paramActivity": 616,
-          "m_paramEndActivityImmediately": 656,
-          "m_paramSnapToSquatting": 688,
-          "m_sActivityFinished": 720
-        },
-        "metadata": [],
-        "parent": null
-      },
       "C_CommandContext": {
         "fields": {
           "command_number": 160,
@@ -573,38 +563,17 @@
       }
     },
     "enums": {
-      "0____": {
-        "alignment": 126,
-        "members": {
-          "": 8390054572390113604
-        },
-        "type": "unknown"
-      },
-      "8_pg_": {
-        "alignment": 207,
-        "members": {
-          "": 0
-        },
-        "type": "unknown"
-      },
-      "D_x_": {
+      "_____": {
         "alignment": 3,
         "members": {
-          "": -1657324659911656329
+          "": -7421932170326788865
         },
         "type": "unknown"
       },
-      "_D__": {
-        "alignment": 207,
+      "q____": {
+        "alignment": 113,
         "members": {
           "": 0
-        },
-        "type": "unknown"
-      },
-      "__x_": {
-        "alignment": 36,
-        "members": {
-          "": 8718968889426592771
         },
         "type": "unknown"
       }

@@ -16,6 +16,14 @@
         "parent": null
       }
     },
-    "enums": {}
+    "enums": {
+      "CCSPlayerController_DamageServices": {
+        "alignment": 0,
+        "members": {
+          "": 0
+        },
+        "type": "unknown"
+      }
+    }
   }
 }

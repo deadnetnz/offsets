@@ -1,10 +1,10 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2025-10-15 03:48:58.531544200 UTC
+// 2025-11-21 09:11:42.322 UTC
 
 namespace CS2Dumper.Schemas {
     // Module: host.dll
     // Class count: 2
-    // Enum count: 0
+    // Enum count: 1
     public static class HostDll {
         // Parent: None
         // Field count: 1

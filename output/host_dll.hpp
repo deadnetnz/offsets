@@ -1,5 +1,5 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2025-10-15 03:48:58.531544200 UTC
+// 2025-11-21 09:11:42.322 UTC
 
 #pragma once
 
@@ -9,7 +9,7 @@ namespace cs2_dumper {
     namespace schemas {
         // Module: host.dll
         // Class count: 2
-        // Enum count: 0
+        // Enum count: 1
         namespace host_dll {
             // Parent: None
             // Field count: 1
